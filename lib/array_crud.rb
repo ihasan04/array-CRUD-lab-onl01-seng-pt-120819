@@ -4,7 +4,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  my_array = Array.new("this", "is", "new", "array")
+  my_array = ["this", "is", "new", "array"]
 
 end
 
